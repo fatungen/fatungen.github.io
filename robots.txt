@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://fatungen.github.io/sitemap.html.gz
+Sitemap: https://fatungen.github.io/app/sitemap.html.gz
+Sitemap: https://fatungen.github.io/assets/sitemap.html.gz
+Sitemap: https://fatungen.github.io/css/sitemap.html.gz
+Sitemap: https://fatungen.github.io/data/sitemap.html.gz
+Sitemap: https://fatungen.github.io/includes/sitemap.html.gz
+Sitemap: https://fatungen.github.io/item/sitemap.html.gz
+Sitemap: https://fatungen.github.io/src/sitemap.html.gz
